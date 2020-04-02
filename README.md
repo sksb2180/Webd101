@@ -1,6 +1,4 @@
-# WebDevelopment
-
-This is my first repository for web development.
+# Python and Other Codes
 
 
 #SUMIT KR SINGH,IIT GUWAHATI
